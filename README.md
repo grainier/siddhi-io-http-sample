@@ -1,0 +1,1 @@
+curl -X POST http://localhost:9056/endpoints/ -H 'Content-Type: text/plain' -d 'data:grainier perera'
